@@ -1,13 +1,13 @@
---> in page source  
-go though lines from 46 -64
-
-  # level1.PNG
-
-</head>
-<body onLoad=password()>
-
-<script language=JavaScript>
-  
+--> in page source  \
+go though lines from 46 -64\
+  \
+  # level1.PNG\
+\
+</head>\
+<body onLoad=password()>\
+\
+<script language=JavaScript>\
+  \
 {
 
 var a="null";
