@@ -1,7 +1,7 @@
 --> in page source  
 go though lines from 46 -64
 
-  #https://raw.githubusercontent.com/enigmaOfficial/Hackertest.net-Ctfs/master/Level%201/level1.PNG?token=AKJ6L5F5HGAZKJIZGQR34HS6DK5OK
+  # level1.PNG
 
 </head>
 <body onLoad=password()>
