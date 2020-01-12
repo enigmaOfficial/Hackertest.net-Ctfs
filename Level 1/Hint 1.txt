@@ -1,6 +1,7 @@
 --> in page source  
 go though lines from 46 -64
 
+  # level1.png
 
 </head>
 <body onLoad=password()>
