@@ -1,5 +1,5 @@
---> in page source  
-go though lines from 46 -64
+--> in the page source  
+go through  lines from 46 -64
 
  ![level1](https://github.com/enigmaOfficial/Hackertest.net-Ctfs/blob/master/Level%201/level1.PNG)
 
